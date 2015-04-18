@@ -22,6 +22,7 @@ mvc | xml | mvcontainer |
 mhc | xml | mhconainer |
 msel | xml | mselection |
 mbg | xml | mbasegroup |
+mradiogroup | xml | mradiobuttongroup |
 
 # Teclas de atalho
 
