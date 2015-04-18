@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<mdatagrid id="$1" query="\$this->data->query">
+    <mdatagridcolumn field="$2" visible="false"/>
+    <mdatagridcolumn type="link" field="$3" action=">$4/formObject/#0#" title="$5" width="20%"/>
+    <mdatagridcolumn field="$6" title="$7" width="100%"/>
+</mdatagrid>
+]]></content>
+	<tabTrigger>mdg</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mdatagrid</description>
+</snippet>

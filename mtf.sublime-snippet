@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mtextfield id="$1" label="$2" hint=""/>
+]]></content>
+	<tabTrigger>mtf</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mtextfield</description>
+</snippet>

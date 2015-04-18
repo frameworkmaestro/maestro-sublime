@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mhiddenfield id="$1" />
+]]></content>
+	<tabTrigger>mhf</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mhiddenfield</description>
+</snippet>

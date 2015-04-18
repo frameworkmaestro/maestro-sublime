@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mselection id="$1" label="$2" options="\$this->data->options" />
+]]></content>
+	<tabTrigger>msel</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mselection</description>
+</snippet>

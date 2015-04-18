@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<mbox id="$1" caption="$2">
+	$SELECTION
+</mbox>
+]]></content>
+	<tabTrigger>mbox</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mbox</description>
+</snippet>

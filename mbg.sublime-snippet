@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<mbasegroup id="$1" caption="$2" width="200px">
+	$SELECTION               
+</mbasegroup>
+]]></content>
+	<tabTrigger>mbg</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mbasegroup</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<mvcontainer>
+	$SELECTION
+</mvcontainer>		
+]]></content>
+	<tabTrigger>mvc</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mvcontainer</description>
+</snippet>

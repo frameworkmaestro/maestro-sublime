@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mbutton id="btnPost" text="Enviar" action="\$this->data->action" />
+]]></content>
+	<tabTrigger>mbtn</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mbutton</description>
+</snippet>

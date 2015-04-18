@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mdatagridcolumn field="$1" title="$2" width="$3%"/>		
+]]></content>
+	<tabTrigger>mdgc</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mdatagridcolumn</description>
+</snippet>

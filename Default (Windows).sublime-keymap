@@ -1,0 +1,7 @@
+[
+	{ "keys": ["f12"], "command": "reindent"},
+	{ "keys": ["ctrl+shift+m+b"], "command": "insert_snippet", "args": { "name": "Packages/maestro-sublime/mbg.sublime-snippet" }  },
+	{ "keys": ["ctrl+shift+m+x"], "command": "insert_snippet", "args": { "name": "Packages/maestro-sublime/mbox.sublime-snippet" }  },
+	{ "keys": ["ctrl+shift+m+h"], "command": "insert_snippet", "args": { "name": "Packages/maestro-sublime/mhc.sublime-snippet" }  },
+	{ "keys": ["ctrl+shift+m+v"], "command": "insert_snippet", "args": { "name": "Packages/maestro-sublime/mvc.sublime-snippet" }  }
+]
