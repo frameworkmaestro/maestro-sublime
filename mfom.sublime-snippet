@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<?xml version="1.0"?>
+<!DOCTYPE view SYSTEM "../../public/layouts/view.dtd">
+<view>
+    <mform id="formXXX" title="XXX" close=">XXX">
+        <fields>
+        </fields>
+        <buttons>
+            <mbutton id="btnSubmit" text="Submit" action="$this->data->action"/>
+        </buttons>
+        <validators>
+        </validators>
+    </mform>
+</view>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mform</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.xml</scope>
+</snippet>
