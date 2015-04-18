@@ -2,9 +2,9 @@
 Package com funcionalidades para o maestro
 
 # Como Instalar?
-Faça o download do projeto zip e descompacte no diretório do <sublime>\Packages
+Faça o download do projeto zip e descompacte no diretório do \sublime\Packages
 
-No windows, fica em: C:\Users\<usuario>\AppData\Roaming\Sublime Text 2\Packages\
+No windows, fica em: C:\Users\\<usuario>\AppData\Roaming\Sublime Text 2\Packages\
 
 No linux, ??
 
@@ -33,7 +33,15 @@ Teclas de atalho podem ser usadas em algumas situações, principalmente para ad
 <mtextfield id="" label="" hint=""/>	
 ```
 
-Os controles originalmente são dispostos verticalmente. Caso precise adicionar horizontalmente, é necessário introduzir o componente <mhcontainer>. Para fazer isso, selecione os três conmponentes e pressione simultaneamente **CTRL+SHIFT** e com eles pressionados aperte **M** e depois **H**
+Os controles originalmente são dispostos verticalmente. Caso precise adicionar horizontalmente, é necessário introduzir o componente *mhcontainer*. Para fazer isso, selecione os três conmponentes e pressione simultaneamente **CTRL+SHIFT** e com eles pressionados aperte **M** e depois **H**. O resultado final seria:
+
+```xml
+<mhcontainer>
+		<mtextfield id="" label="" hint=""/>	
+		<mtextfield id="" label="" hint=""/>	
+		<mtextfield id="" label="" hint=""/>
+</mhcontainer>
+```
 
 A tabela a seguir mostra os atalhos disponiveis:
 
