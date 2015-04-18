@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<mradiobuttongroup id="$1" disposition="{{ MContainer::DISPOSITION_VERTICAL }}" caption="$2">
+            <mradiobutton id="" text="" value=""/>
+            <mradiobutton id="" text="" value=""/>
+</mradiobuttongroup>
+]]></content>
+	<tabTrigger>mradiogroup</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>
