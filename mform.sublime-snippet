@@ -3,11 +3,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE view SYSTEM "../../public/layouts/view.dtd">
 <view>
-    <mform id="formXXX" title="XXX" close=">XXX">
+    <mform id="form$1" title="$2" close=">$3">
         <fields>
+           $4
         </fields>
         <buttons>
-            <mbutton id="btnSubmit" text="Submit" action="$this->data->action"/>
+            <mbutton id="btnSubmit" text="Enviar" action="$this->data->action"/>
         </buttons>
         <validators>
         </validators>
@@ -18,3 +19,4 @@
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.xml</scope>
 </snippet>
+
