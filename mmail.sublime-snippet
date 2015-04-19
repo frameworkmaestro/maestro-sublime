@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<memailfield id="$1" label="$2"/>		
+]]></content>
+	<tabTrigger>mmail</tabTrigger>
+	<scope>text.xml</scope>
+	<description>memailfield</description>
+</snippet>

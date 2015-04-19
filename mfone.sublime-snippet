@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mphonefield id="$1" label="$2"/>		
+]]></content>
+	<tabTrigger>mfone</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mphonefield</description>
+</snippet>

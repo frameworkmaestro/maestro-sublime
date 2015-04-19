@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mmultilinefield id="$1" label="$2" rows="5" cols="40"/>
+]]></content>
+	<tabTrigger>mmf</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mmultiline field</description>
+</snippet>

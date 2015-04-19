@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mnitfield id="$1" label="$2"/>		
+]]></content>
+	<tabTrigger>mnit</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mnitfield</description>
+</snippet>

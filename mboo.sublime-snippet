@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ <mbooleanfield id="$1" value="1" label="$2" text="$3"/>		
+]]></content>
+	<tabTrigger>mboo</tabTrigger>
+	<scope>text.xml</scope>
+	<descripton>mbooleanfield</descripton>
+</snippet>

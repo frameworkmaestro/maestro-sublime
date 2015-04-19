@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mcurrencyfield id="$1" label="$2"/>		
+]]></content>
+	<tabTrigger>mcf</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mcurrencyfield</description>
+</snippet>

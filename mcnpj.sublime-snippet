@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mcnpjfield id="$1" label="$2"/>		
+]]></content>
+	<tabTrigger>mcnpj</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mcnpjfield</description>
+</snippet>

@@ -10,7 +10,7 @@ No linux, ??
 
 # Snippets disponíveis
 
-Comando  | Tipo de arquivo | Descricao |
+Comando  | Tipo de arquivo | Descrição |
 -------------|-------------|-----------|
 mform | xml | Insere a estrutura de um formulário completo, contendo fields, buttons e validators |
 mtf | xml | mtextfield |
@@ -23,6 +23,24 @@ mhc | xml | mhconainer |
 msel | xml | mselection |
 mbg | xml | mbasegroup |
 mradiogroup | xml | mradiobuttongroup |
+mradio | xml | mradiobutton |
+mboo | xml | mbooleanfield |
+mlabel | xml | mlabel |
+mpass | xml | mpasswordfield |
+mmf | xml | mmultilinefield |
+mtime | xml | mtimefield |
+mtimes | xml | mtimestampfield |
+mmail | xml | memailfield |
+mcf | xml | mcurrenncyfield |
+mnum | xml | mnumberfield |
+mfone | xml | mphonefiled |
+mcpf | xml | mcpffield |
+mcnpj | xml | mcnpjfield |
+mnit | xml | mnitfield |
+mcep | xml | mcepfield |
+msiape | xml | msiapefield |
+medito | xml | meditorfield
+
 
 # Teclas de atalho
 

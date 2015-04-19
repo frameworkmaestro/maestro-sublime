@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mtimestampfield id="$1" label="$2" value="12/10/2005 23:21:34"/>		
+]]></content>
+	<tabTrigger>mtimes</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mtimestampfield</description>
+</snippet>

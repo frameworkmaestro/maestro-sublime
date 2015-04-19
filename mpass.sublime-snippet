@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mpasswordfield id="$1" label="$2" />		
+]]></content>
+	<tabTrigger>mpass</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mpasswordfield</description>
+</snippet>

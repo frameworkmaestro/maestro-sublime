@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mcpffield id="$1" label="$2"/>		
+]]></content>
+	<tabTrigger>mcpf</tabTrigger>
+	<scope>text.xml</scope>
+	<description>mcpffield</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<meditor id="$1" label="$2" height="300px" width="600px"/>
+]]></content>
+	<tabTrigger>meditor</tabTrigger>
+	<scope>text.xml</scope>
+	<description>meditorfield</description>
+</snippet>

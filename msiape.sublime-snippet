@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-		
+<msiapefield id="$1" label="$2" />	
 ]]></content>
 	<tabTrigger></tabTrigger>
 	<scope>text.xml</scope>
-	<description></description>
+	<description>msiapefield</description>
 </snippet>
