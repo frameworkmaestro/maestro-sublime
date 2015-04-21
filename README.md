@@ -39,8 +39,9 @@ mcnpj | xml | mcnpjfield |
 mnit | xml | mnitfield |
 mcep | xml | mcepfield |
 msiape | xml | msiapefield |
-medito | xml | meditorfield |
-
+medit | xml | meditorfield |
+mbf | xml | mbuttonfind |
+mformb | xml | mformbase |
 
 # Teclas de atalho
 

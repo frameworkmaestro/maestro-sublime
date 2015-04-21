@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<data load="\$this->data->$1" />		
+]]></content>
+	<tabTrigger>mdl</tabTrigger>
+	<scope>text.xml</scope>
+	<description>data load</description>
+</snippet>

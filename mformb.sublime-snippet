@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<?xml version="1.0"?>
+<!DOCTYPE view SYSTEM "../../../../public/layouts/view.dtd">
+<view>
+    <mformbase id="$1" title="$2" actions="$3" close="$4" />
+</view>]]></content>
+	<tabTrigger>mformb</tabTrigger>
+	<scope>text.xml</scope>
+    <description>mformbase</description>
+</snippet>
+

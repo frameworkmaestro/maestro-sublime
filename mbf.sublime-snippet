@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mbuttonfind/>	
+]]></content>
+	<tabTrigger>mbf</tabTrigger>
+	<scope>text.xml</scope>
+	<description></description>
+</snippet>
