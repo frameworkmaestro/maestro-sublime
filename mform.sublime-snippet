@@ -8,7 +8,7 @@
            $4
         </fields>
         <buttons>
-            <mbutton id="btnSubmit" text="Enviar" action="$this->data->action"/>
+            <mbutton id="btnSubmit" text="Enviar" action="\$this->data->action"/>
         </buttons>
         <validators>
         </validators>

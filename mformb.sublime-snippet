@@ -3,7 +3,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE view SYSTEM "../../../../public/layouts/view.dtd">
 <view>
-    <mformbase id="$1" title="$2" actions="$3" close="$4" />
+    <mformbase id="$1" title="$2" actions="$3" close="$4">
+    	<action action="form1" label="Menu 1" />
+        <action action="form2" label="Menu 2" />
+    </mformbase>
 </view>]]></content>
 	<tabTrigger>mformb</tabTrigger>
 	<scope>text.xml</scope>
