@@ -1,6 +1,8 @@
 # maestro-sublime
 Package com funcionalidades para o maestro
 
+![](http://i.imgur.com/gSrxXqj.gif)
+
 # Como Instalar?
 Faça o download do projeto zip e descompacte no diretório do \sublime\Packages
 
