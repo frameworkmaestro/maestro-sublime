@@ -1,0 +1,8 @@
+<snippet>
+        <content><![CDATA[
+<event event="$1" handler="$2"/>
+]]></content>
+        <tabTrigger>mevt</tabTrigger>
+        <scope>text.xml</scope>
+        <description>js event</description>
+</snippet>

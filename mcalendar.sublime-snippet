@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<mcalendarfield id="$1" label="$2" size="8"/>
+]]></content>
+    <tabTrigger>mcal</tabTrigger>
+    <scope>text.xml</scope>
+</snippet>
