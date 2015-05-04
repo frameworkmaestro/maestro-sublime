@@ -9,7 +9,9 @@ No windows, fica em: C:\Users\\<usuario>\AppData\Roaming\Sublime Text 2\Packages
 No linux, ??
 
 Pode-se também realizar um git clone no diretório acima:
+```bash
 git clone https://github.com/frameworkmaestro/maestro-sublime.git
+```
 
 # Snippets disponíveis
 
