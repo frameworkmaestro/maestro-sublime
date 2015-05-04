@@ -2,7 +2,7 @@
         <content><![CDATA[
 <ajax type="text" event="$1" url="$2"/>
 ]]></content>
-        <tabTrigger>ajax</tabTrigger>
+        <tabTrigger>majax</tabTrigger>
         <scope>text.xml</scope>
         <description>ajax</description>
 </snippet>
